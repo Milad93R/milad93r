@@ -1,6 +1,6 @@
 # Hi there, I'm Milad Rashid 👋
 
-## 🚀 Senior Full-Stack Developer | 7+ Years Experience
+## 🚀 Senior Full-Stack Developer 
 
 ---
 
