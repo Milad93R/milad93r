@@ -95,9 +95,11 @@ Welcome to my GitHub! I'm a passionate software developer with **7+ years of exp
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milad93r&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milad93r&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milad93r&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milad93r&layout=compact&theme=radical&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=milad93r&theme=radical)
 
 ---
 
